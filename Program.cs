@@ -17,13 +17,13 @@ namespace Junior
 		{
 			checkingString();
 		}
-		static string coin;
+		static string Coin;
 		private static void checkingString()
 		{
 
 			//Pobranie liczb od użytkownika
 			Console.WriteLine("Wypisz liczby po przecinku: ");
-			coin = Console.ReadLine();
+			Coin = Console.ReadLine();
 			// Sprawdzenie czy ciąg jest poprawny czyli obsługa błędu
 			try
 			{
@@ -40,8 +40,8 @@ namespace Junior
 		private static void converting()
 		{
 			//Usunięcie białych znaków i wstawienie ich do tablicy stringów
-			coin.Trim();
-			string[] numbersInString = coin.Split(',');
+			Coin.Trim();
+			string[] numbersInString = Coin.Split(',');
 			int[] numbersArray = new int[numbersInString.Length];
 
 
