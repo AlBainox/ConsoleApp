@@ -1,0 +1,7 @@
+C:\Users\Al\Source\Repos\Junior\bin\Debug\Junior.exe.config
+C:\Users\Al\Source\Repos\Junior\bin\Debug\Junior.exe
+C:\Users\Al\Source\Repos\Junior\bin\Debug\Junior.pdb
+C:\Users\Al\Source\Repos\Junior\obj\Debug\Junior.csprojAssemblyReference.cache
+C:\Users\Al\Source\Repos\Junior\obj\Debug\Junior.csproj.CoreCompileInputs.cache
+C:\Users\Al\Source\Repos\Junior\obj\Debug\Junior.exe
+C:\Users\Al\Source\Repos\Junior\obj\Debug\Junior.pdb
